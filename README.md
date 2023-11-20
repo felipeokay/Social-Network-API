@@ -13,7 +13,7 @@
 
 ## Usage
 
- Link to walkthrough video:
+ Link to walkthrough video: https://youtu.be/zQlnZdZTvWs?si=gR4zUKhHwKEvhu3f
 
 ## Contribution
  Follow me on Github at [felipeokay](https://github.com/felipeokay) 
