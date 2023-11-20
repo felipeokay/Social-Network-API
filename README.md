@@ -15,6 +15,8 @@
 
  Link to walkthrough video: https://youtu.be/zQlnZdZTvWs?si=gR4zUKhHwKEvhu3f
 
+ ![Alt text](social.png)
+
 ## Contribution
  Follow me on Github at [felipeokay](https://github.com/felipeokay) 
 
